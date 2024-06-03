@@ -29,6 +29,10 @@ target/
 /.nb-gradle/
 build/
 .allure/
+.idea/
+allure-report/
+allure-results/
+chromedriver.exe
 
 !**/src/main/**/build/
 !**/src/test/**/build/
