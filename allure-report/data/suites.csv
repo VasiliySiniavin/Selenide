@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Jun 02 16:22:20 MSK 2024","Sun Jun 02 16:22:24 MSK 2024","4313","","SelenideProject.Tests","","SelenideProject.Tests","testCheckTitilePage","testCheckTitilePage()","Проверка заголовка страницы, логотипа и наличия разделов Подготовка к полёту, Полезная информация, О компании"
